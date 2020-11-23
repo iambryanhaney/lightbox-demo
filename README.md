@@ -1,6 +1,6 @@
 A gallery lightbox utilizing modular arithmetic to declaratively handle navigation, transitions and image preloading.
 
-image:https://img.youtube.com/vi/nvna1ln8Cn8/maxresdefault.jpg[link=https://youtu.be/nvna1ln8Cn8]
+image:https://img.youtube.com/vi/nvna1ln8Cn8/0.jpg[link=https://youtu.be/nvna1ln8Cn8]
 
 To run, clone to a local directory and enter npm i followed by npm start.
 
