@@ -15,4 +15,4 @@ An example in use in a project.
 ***  
   
   
-To run, clone to a local directory and enter ***npm i*** followed by ***npm start***.  
+To run, clone to a local directory and enter `npm i` followed by `npm start`.  
