@@ -1,4 +1,4 @@
-## A gallery lightbox utilizing modular arithmetic to declaratively handle navigation, transitions and image preloading.  
+###A gallery lightbox utilizing modular arithmetic to declaratively handle navigation, transitions and image preloading.  
 
 
 Demo video:  
