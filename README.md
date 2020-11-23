@@ -1,4 +1,4 @@
-###A gallery lightbox utilizing modular arithmetic to declaratively handle navigation, transitions and image preloading.  
+### A gallery lightbox utilizing modular arithmetic to declaratively handle navigation, transitions and image preloading.  
 
 
 Demo video:  
@@ -12,6 +12,6 @@ An example in use in a project.
 ***
 
 
-To run, clone to a local directory and enter ###**npm i** followed by ###**npm start**.
+To run, clone to a local directory and enter ### **npm i** followed by ### **npm start**.
 
 A detailed explanation of the mechanics: https://medium.com/@iambryanhaney/a-novel-declarative-algorithm-for-stateless-navigation-buffering-and-transitions-in-image-a16bbd48e0e6
