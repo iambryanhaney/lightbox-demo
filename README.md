@@ -1,7 +1,7 @@
 #### A gallery lightbox utilizing modular arithmetic to declaratively handle navigation, transitions and image preloading.  
   
   
-A detailed explanation of the mechanics: https://medium.com/@iambryanhaney/a-novel-declarative-algorithm-for-stateless-navigation-buffering-and-transitions-in-image-a16bbd48e0e6  
+A detailed explanation of the mechanics: https://iambryanhaney.medium.com/a-novel-algorithm-for-stateless-navigation-transitions-and-buffering-in-image-galleries-a16bbd48e0e6?sk=7f27d148261528440caa1111c40fa024
   
   
 Demo video:  
