@@ -1,11 +1,11 @@
-## A gallery lightbox utilizing modular arithmetic to declaratively handle navigation, transitions and image preloading.
+## A gallery lightbox utilizing modular arithmetic to declaratively handle navigation, transitions and image preloading.  
 
 
-Demo video:
+Demo video:  
 [![Lightbox Demo](http://img.youtube.com/vi/t7WgL2wMdyY/0.jpg)](https://youtu.be/t7WgL2wMdyY "Lightbox Demo")
 
 
-An example in use in a project.
+An example in use in a project.  
 [![Completed Example](http://img.youtube.com/vi/nvna1ln8Cn8/0.jpg)](https://youtu.be/nvna1ln8Cn8 "Completed Example")
 
 
